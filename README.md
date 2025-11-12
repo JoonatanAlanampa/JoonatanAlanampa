@@ -4,7 +4,7 @@ My name is Joonatan, and I hold a Bachelor of Science (Technology). I'm currentl
 
 - Working on system-level development of video streaming setup; an HLS matrix-multiplication project with Siemens Catapult; and the ASIC RTL-to-GDSII flow.
 - Learning all things SoC-related.
-- Seeking a SoC-focused internship or junior developer role.
+- Seeking a SoC-focused internship or junior developer role. Also interested in SoC related thesis worker positions. 
 
 <!--
 **JoonatanAlanampa/JoonatanAlanampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
