@@ -2,7 +2,7 @@
 
 My name is Joonatan, and I hold a Bachelor of Science (Technology). I'm currently pursuing a master's degree with a major in SoC design
 
-- Working on system-level development of video streaming setup; an HLS matrix-multiplication project with Siemens Catapult; and the ASIC RTL-to-GDSII flow.
+- Working on system-level development of video streaming setup, an HLS matrix-multiplication project with Siemens Catapult, and the ASIC RTL-to-GDSII flow.
 - Learning all things SoC-related.
 - Seeking a SoC-focused internship or junior developer role. Also interested in SoC related thesis worker positions. 
 
